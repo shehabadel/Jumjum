@@ -1,31 +1,31 @@
-Task1
+Task1 -- This is not an updated version (check the word document better)
 # Jumjum Ecommerce
 
 Name: Jumjum Ecommerce
 
 Description: Jumjum is an upcoming e-commerce platform in Egypt made specifically for tech sector. Jumjum will allow Software Engineers and IT employees to discover and explore Electronics, Stacks and Technologies Subscriptions, Deployment plans...etc, with a lot of offers and better navigation. Jumjum is expected to boost the developers’ productivity.
 
-# Part 1
-Product Owner: Omar Bayoumy
-Scrum Master: Laila El-Sayed
-## Scrum Dev Team
-No.	Name	Expertise	Role
-01	Arnold	Frontend	Converts UI/UX into frontend code using ReactJS, Bootstrap, and HTML5.
-02	Shawky	Code Reviewer	Maintains source control and refining code.
-03	Hamdy	Backend	Creates API endpoints and ORM model connection to database using MongoDB, ExpressJS, NodeJS, and Mongoose.
-04 	Huda	Software Architect	Designs and plans the software modules connections with each other.
-05	Beanuts	DevOps	Responsible for the deployment and containerization using Nginx, Docker, Kubernetes.
-06	Socrates	Unit Tester	Responsible for making unit tests on modules created and follow test-driven development process using Jest.
-07	Muller	API Tester	Makes sure API endpoints sending responses as required
-08	Reem	Animator	Responsible for creating animated designs
-09	Manuel	UI/UX	User interface and experience design, Adobe XD, Figma
+## Scrum Team
+
+|No.|Name|Expertise|Role|
+|--|--|--|--|--|
+|01|Arnold|Frontend|Converts UI/UX into frontend code using ReactJS, Bootstrap, and HTML5|
+|02|Shawky|Code Reviewer|Maintains source control and refining code|
+|03|Hamdy|Backend|Creates API endpoints and ORM model connection to database|
+|04|Huda|Software Architect|Designs and plans the software modules connections with each other|
+|05|Beanuts|DevOps|Responsible for the deployment and monitioring the server requests and responses|
+|06|Socrates|Unit Tester|Responsible for making unit tests on modules created and follow test-driven development process|
+|07|Muller|API Tester|Makes sure API endpoints sending responses as required|
+|08|Reem|Animator|Responsible for creating animated designs|
+|09|Manuel|Senior UI/UX|User interface and experience design, Adobe XD, Figma|
 
 ## Stakeholders
-Name	Role	Availability	Influence	Engagement
-Alex Sancho	Investor	Low	High	Keep Satisfied
-Hansi Flick	Stakeholder	High 	High	Actively Engaged
-Julian Naggelsman	Stakeholder	High	Low	Keep Informed
-Lionel Pepsi	Subject Matter Expert	Low	Low	Monitor
+
+|Name|Role|Availability|Influence|Engagement|
+|--|--|--|--|--|--|
+|Alex Sancho| Investor | Low | High | Keep Satisfied|
+|Hansi Flick| Stakeholder| High| High| Actively Engaged|
+
 
 ## Product Vision
 
