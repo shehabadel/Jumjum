@@ -8,7 +8,7 @@ Description: Jumjum is an upcoming e-commerce platform in Egypt made specificall
 ## Scrum Team
 
 |No.|Name|Expertise|Role|
-|--|--|--|--|--|
+|--|--|--|--|
 |01|Arnold|Frontend|Converts UI/UX into frontend code using ReactJS, Bootstrap, and HTML5|
 |02|Shawky|Code Reviewer|Maintains source control and refining code|
 |03|Hamdy|Backend|Creates API endpoints and ORM model connection to database|
@@ -22,7 +22,7 @@ Description: Jumjum is an upcoming e-commerce platform in Egypt made specificall
 ## Stakeholders
 
 |Name|Role|Availability|Influence|Engagement|
-|--|--|--|--|--|--|
+|--|--|--|--|--|
 |Alex Sancho| Investor | Low | High | Keep Satisfied|
 |Hansi Flick| Stakeholder| High| High| Actively Engaged|
 
