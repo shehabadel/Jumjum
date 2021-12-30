@@ -1,5 +1,9 @@
-Task1 -- This is not an updated version (check the word document better)
-# Jumjum Ecommerce
+
+ -- This is not an updated version (check the word document better)
+ 
+# Task1
+
+## Jumjum Ecommerce
 
 Name: Jumjum Ecommerce
 
@@ -63,3 +67,63 @@ Marketplace Page – Marketplace UI/UX Design	Reem, Arnold
 Add Payment	Muller
 Checkout Page	Socrates
 
+
+
+# Task2
+## Sprint duration Estimation
+It is expected that the team can complete up to 37-39 story points in a sprint.
+## Sprint workflow
+ 
+
+## Workflow Rationale
+When the sprint starts, the PBIs are presented inside a TODO state, when we start working on a PBI, we move them inside the In Progress state, then after finishing it; it will be moved into Code Review state where Shawky (Code Reviewer) will review the code finished. If there is a problem the PBI will be rejected and brought back to In Progress state, but if there are no problems with it, it will go to Done state to be deployed and uploaded to the production. Any PBI moved to Done state, it can’t be brought back to the other previous states. 
+## Workflow rules
+1)	Only Shawky (Code Reviewer) get assigned with the tasks in the Code Review state (Assign Issue to Someone)
+2)	Only Shawky (Code Reviewer) approves the tasks in Code Review and verify them for deployment (Restrict who can move an issue) 
+ 
+## Daily Scrum Document
+
+Team Member	Question	Sunday	Monday	Tuesday	Wednesday	Thursday
+Shawky	What did you do yesterday?	Designing the Registration page API endpoints	Implemented on the Registration page	Code Reviewing	Finished the Registration page	Deploying the finished PBI to production.
+	What are doing today?	Implementing the Registration page.	Code Reviewing	Finishing the Registration page.	Deploying the finished PBI to production.	Beta testing
+	Is there anything blocking you?	No.	Yes, a problem with the operations team.	No.	Yes, the server is down.	No.
+Hamdy	What did you do yesterday?	Integration Testing	Implemented Logging In Functionality	Making Unit tests	Finishing the Logging In Functionality.	Making integration tests.
+	What are doing today?	Implementing Logging In Functionality	Making Unit Tests	Finishing the Logging In Functionality.	Making integration tests.	Design the database
+	Is there anything blocking you?	No.	No.	No. 	Yes, the development server was down.	No.
+
+Team Member	Question	Sunday	Monday	Tuesday	Wednesday	Thursday
+Manuel	What did you do yesterday?	Designing the UI/UX of the PBI	Writing ReactJS code	Code Reviewing	Unit Testing for the frontend code.	Deploying the finished PBI to production.
+	What are doing today?	Writing ReactJS code	Code Reviewing	Unit Testing for the frontend code.	Deploying the finished PBI to production.	Beta testing
+	Is there anything blocking you?	No.	No.	No.	No.	No.
+Huda	What did you do yesterday?	Designing software modules architect	Maintaining implemented code	Reviewing code.	Reviewing server requests and responses	Making integration tests.
+	What are doing today?	Maintaining implemented code	Reviewing code.	Reviewing server requests and responses	Deployment of new features	Design the database
+	Is there anything blocking you?	No.	No.	Cloud services were down	Yes, the development server was down.	No.
+
+## Sprint Document
+
+### Sprint 1
+Since this is the first sprint, there were no previous sprints.
+On this sprint, we did the presented the following features
+1.	Navigate the website’s homepage
+2.	Create an account on the website
+3.	Log into the website
+4.	Navigate in the Marketplace tab
+5.	Search by stacks technologies, products, subscriptions, infrastructure plans on the Marketplace.
+
+ 
+### Sprint 2
+In the previous sprint, we were able to deliver the following features
+1.	Website’s Homepage
+2.	Registration
+3.	Logging in
+4.	Marketplace page
+5.	Searching and filtering in Marketplace page.
+There were several problems that we faced during the previous sprint which were like with the operations team or with the development server, but these problems did not affect the sprint duration, as the team finished the sprint. This sprint gave us the first preview of our website since they are the main features in our website so far.
+
+In this sprint the user should be able to
+1.	Add payment method to his profile
+2.	Checkout on his desired items to complete purchasing process
+3.	The seller should be able to add items to his dashboard so that they will be presented on the Marketplace, and he will be able to find insights on his numbers.
+4.	The user should be able to navigate to feed page where he can see comparisons and discussions on several products, infrastructure plans, subscriptions…etc.
+
+There were several problems related to cloud hosting services and Jira Management, as the cloud hosting services went down for several hours and came back online shortly. In addition, that we had to re-open the sprint again from the Reports and Burndown charts as there was a task that was not completely finished. Moving on with the previous sprint, this sprint continues presenting main features as well, which are a part of the first release of our website.
