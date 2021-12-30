@@ -41,17 +41,23 @@ Sprint 2: Create a feed page that shows feedbacks of users about technologies su
 ## Story Points Estimation Convention
 
 1-> Very Small User Story
-3-> Small User Story
-5-> Medium User Story
-8-> Large User Story
-11-> Very Large User Story
-15-> Extra Large User Story (needs to be broken into several tasks)
 
-The sprint duration = 45 story points
+3-> Small User Story
+
+5-> Medium User Story
+
+8-> Large User Story
+
+11-> Very Large User Story
+
+13 and above-> Extra Large User Story (needs to be broken into several tasks)
+
+Each working day takes 3 story points.
+
 
 ## Ordering Product Backlog and Rationale
 
-In the first sprint, we selected the homepage and logo to be the highest priority since they are the main component of our website, as it is the first page that the users will see when they open the website. Then, we selected the registration and logging in to be the following product backlog items in the priority in order to allow the user to log into the website and interact with its functionalities.  Then, coming to the main functionality of this sprint the user will be able to open the marketplace page which will allow him to explore several offers on infrastructures, subscription plans, technologies, and items as well, the user also will be able filter the results to show user selected tags like Items, or subscription plans…etc. Moving to the next PBI which is the searching functionality, it will allow the users to search for specific items using their title which will be shown in the marketplace page. The user will also be able to add payment methods to its profile like Visa, Mastercard…etc. Which will allow him to proceed in purchasing the products or subscribing to the plans, this functionality will enhance the user experience and boost its speed since the user will not have to proceed to the original sites of the products and purchase them from there. Finally, the checkout will be the last step of the purchasing since it will generate a final receipt to the user showing him the final cost that will be needed to complete the purchase. The PBI are prioritized according to their added business value, the rest of the PBI are expected to be in the second sprint, since they have less business value than the first PBIs in the product backlog.
+In the first sprint, we selected the homepage and logo to be the highest priority since they are the main component of our website, as it is the first page that the users will see when they open the website. Then, we selected the registration and logging in to be the following product backlog items in the priority in order to allow the user to log into the website and interact with its functionalities.  Then, coming to the main functionality of this sprint the user will be able to open the marketplace page which will allow him to explore several offers on infrastructures, subscription plans, technologies, and items as well, the user also will be able filter the results to show user selected tags like Items, or subscription plans…etc. Moving to the next PBI which is the searching functionality, it will allow the users to search for specific items using their title which will be shown in the marketplace page. The PBI are prioritized according to their added business value, the rest of the PBI are expected to be in the second sprint, since they have less business value than the first PBIs in the product backlog.
  
  
 
@@ -65,8 +71,7 @@ Appealing Logo and Homepage	Manuel, Reem
 Marketplace Page – Marketplace Subscription Implementation	Shawky, Beanuts
 Marketplace Page – Marketplace Filter	Huda, Hamdy
 Marketplace Page – Marketplace UI/UX Design	Reem, Arnold
-Add Payment	Muller
-Checkout Page	Socrates
+
 
 
 
