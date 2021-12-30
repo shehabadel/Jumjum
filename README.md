@@ -1,6 +1,7 @@
 
- -- This is not an updated version (check the word document better)
- 
+The README.md does not contain screenshots, better check the word document.
+
+
 # Task1
 
 ## Jumjum Ecommerce
